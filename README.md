@@ -21,6 +21,10 @@ Each player's cut count is stored in their persistent player data as `health_cut
 
 The React/Vite site includes a responsive overview, a ritual simulator, and the live KubeJS source. The simulator is illustrative only and does not connect to a Minecraft server.
 
+## Attribution and purpose
+
+The project showcase was created with AI. I wrote the Minecraft script with AI assistance. This repository is a learning project for practicing GitHub and building a foundation for my future projects.
+
 ```sh
 npm install
 npm run dev
